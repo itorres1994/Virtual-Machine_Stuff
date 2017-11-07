@@ -1,0 +1,38 @@
+conda list | grep torch
+conda install -c conda-forge tqdm
+conda create -n py27 python=2.7
+conda install notebook ipykernel
+conda install -c conda-forge jupyter_contrib_nbextensions
+conda install -c conda-forge jupyter_nbextensions_configurator
+conda install -c conda-forge jupyter_contrib_nbextensions
+conda install --channel https://conda.anaconda.org/menpo opencv2
+conda install --channel https://conda.anaconda.org/menpo opencv2
+conda install --channel https://conda.anaconda.org/menpo opencv
+conda install -c conda-forge jupyter_nbextensions_configurator
+conda install pytorch torchvision -c soumith
+conda install skimage
+conda install scikit-image
+conda info --envs
+conda list | grep django
+conda list
+conda install -c anaconda django
+conda list | grep django
+conda --version
+conda info --envs
+conda create -n py34 python=3.4 anaconda
+conda info --envs
+conda list
+conda list | grep django
+conda install -c anaconda nltk
+conda list | grep nlp
+conda install -c anaconda nltk
+conda list | grep selenium
+conda install scikit-learn
+conda nltk
+conda upgrade nltk
+conda nltk
+conda nlkt
+conda install nltk
+conda -c anaconda beautifulsoup
+conda -c install anaconda beautifulsoup
+conda install -c anaconda beautifulsoup
